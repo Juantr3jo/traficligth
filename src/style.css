@@ -1,0 +1,46 @@
+#trafictop{
+
+    background-color: black;
+    width: 18px;
+    height: 78px;
+    margin-left: 82px;
+}
+#container{
+    background-color: black;
+    width: 56px;
+    height: 180px;
+    margin-left: 60px;
+    padding: 7px;
+    border-radius: 10px;
+}
+.red{
+    background-color: red;
+    width: 45px;
+    height: 50px;
+    margin: auto;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+}
+.yellow{
+    background-color:yellow;
+    width: 45px;
+    height: 50px;
+    margin: auto;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+}
+.green{
+    background-color:green;
+    width: 45px;
+    height: 50px;
+    margin: auto;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+   
+}
+.selected{
+    box-shadow: #f8ffcc 0px 0px 50px 20px;
+}
